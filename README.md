@@ -1,9 +1,9 @@
 # Criando sua Primeira Landing Page com HTML e CSS
 
-##        💻 Projeto
+##  💻 Projeto
 ## Repositorio para o curso "Criando sua Primeira Landing Page com HTML e CSS" da DIO.
 
-<center>## 🚀 Tecnologias
+## 🚀 Tecnologias
 ## Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## HTML
