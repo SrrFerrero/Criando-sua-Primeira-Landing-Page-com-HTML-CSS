@@ -1,9 +1,5 @@
 # Criando sua Primeira Landing Page com HTML e CSS
 
-🔗 Live Preview   |    🖥️ Projeto   |    🚀 Tecnologias
-
-wakatime
-
 💻 Projeto
 Repositorio para o curso "Criando sua Primeira Landing Page com HTML e CSS" da DIO.
 
