@@ -8,5 +8,4 @@
 
 ## HTML
 ## CSS
-## Github - Estrutura básica do HTML
-## Figma - Protótipo do site a ser desenvolvido
+
