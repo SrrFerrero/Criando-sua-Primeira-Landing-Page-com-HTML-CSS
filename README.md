@@ -6,7 +6,6 @@ https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML
 
 ## 🚀 Tecnologias
 ## Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 ## HTML
 ## CSS
 
