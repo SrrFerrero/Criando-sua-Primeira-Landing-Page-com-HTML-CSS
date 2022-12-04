@@ -1,7 +1,8 @@
 # Criando sua Primeira Landing Page com HTML e CSS
+ para acessar o resultado final da Landing Page criada a partir do desafio!
+https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-CSS/
 
 ##  💻 Projeto
-https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-CSS/
 ## Repositorio para o curso "Criando sua Primeira Landing Page com HTML e CSS" da DIO.
 
 ## 🚀 Tecnologias
@@ -9,3 +10,4 @@ https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML
 ## HTML
 ## CSS
 
+<a href="https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-CSS/" rel="nofollow">Clique Aqui </a>
