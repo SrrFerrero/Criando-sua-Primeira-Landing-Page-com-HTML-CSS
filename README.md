@@ -1,6 +1,6 @@
 # Criando sua Primeira Landing Page com HTML e CSS
 <a href="https://euchristianferreira.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-CSS/" rel="nofollow">Clique Aqui </a>
- para acessar o resultado final da Landing Page criada a partir do desafio!
+ para acessar o resultado final do <b> Site Criado Com Flexbox </b> criada a partir do desafio!
 
 
 ##  💻 Projeto
