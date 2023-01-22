@@ -4,9 +4,10 @@
 
 
 ##  💻 Projeto
-## Repositorio para o curso "Criando sua Primeira Landing Page com HTML e CSS" da DIO.
+## Repositorio de HTML e CSS do curso B7 do Professor bonieky lacerda.
 
 ## 🚀 Tecnologias
 ## Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## HTML
 ## CSS
+##JAVASCRIPT
